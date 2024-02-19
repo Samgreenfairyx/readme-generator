@@ -2,26 +2,45 @@
   # Readme Generator
   
   ## Description
+  
   Easily create readme's in node
   
   ## Table of Contents
-  I will edit this in github
+  
+Installation
+Usage
+License
+Contributing
+Tests
+Questions
+Demo
   
   ## Installation
-  I will also edit this in github
+  
+To install the Professional README Generator, follow these steps:
+
+Clone this repository to your local machine.
+Navigate to the directory where you cloned the repository.
+Run npm install to install the required dependencies.
   
   ## Usage
-  and this
+  
+Once the installation is complete, you can run the application using the following command:
+
+git bash: node index.js
+
+Follow the prompts to enter information about your project, including the project title, description, installation instructions, usage information, contribution guidelines, test instructions, and more. Once you've provided all the necessary information, the application will generate a professional README.md file for your project.
   
   ## License
-  MIT license
+  
+MIT license
   
   ## Contributing
-  Clone (add in github)
+Clone the repo and edit it in your computer
   
   ## Tests
-  test
+To run tests for this application, use the following command: npm test
   
   ## Questions
-  Will link github in github
+www.github.com/Samgreenfairyx
   
